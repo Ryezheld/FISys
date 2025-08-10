@@ -49,7 +49,7 @@ Screenshots below showcase the app in action using anonymized data.
 ## 🛠 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/ryezheld/project-repo.git
+git clone https://github.com/ryezheld/FISys.git
 
 # Navigate into the project
 cd project-repo
